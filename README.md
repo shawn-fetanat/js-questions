@@ -4,7 +4,7 @@
 
 ---
 	
-<span>I copied these amazing questions from Lydia Hallie's repo who was kind enough to put all these questions and answers together. She keeps the list updated so DO NOT star this repo. Instead you should star her repo which you can find [here](https://github.com/lydiahallie/javascript-questions).</span>
+<span>I copied these amazing questions from Lydia Hallie's repo who was kind enough to put all these questions and answers together. She keeps the list updated so <b>DO NOT</b> star this repo. Instead you should star her repo which you can find => [here](https://github.com/lydiahallie/javascript-questions).</span>
 
 <span>She also posts multiple choice JavaScript questions on her [Instagram](https://www.instagram.com/theavocoder) **stories**, which she eventually adds to the list!<a href=#20200612></a>
 
