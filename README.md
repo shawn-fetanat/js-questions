@@ -3,16 +3,18 @@
   <h1>JavaScript Questions</h1>
 
 ---
+	
+<span>I copied these amazing questions from Lydia Hallie's repo who was kind enough to put all these questions and answers together. She keeps the list updated so DO NOT star this repo. Instead you should star her repo which you can find [here](https://github.com/lydiahallie/javascript-questions).</span>
 
-<span>I post multiple choice JavaScript questions on my [Instagram](https://www.instagram.com/theavocoder) **stories**, which I'll also post here! Last updated: <a href=#20200612><b>June 12th</b></a>
+<span>She also posts multiple choice JavaScript questions on her [Instagram](https://www.instagram.com/theavocoder) **stories**, which she eventually adds to the list!<a href=#20200612></a>
 
-From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket: I update this repo regularly with new questions. I added the answers in the **collapsed sections** below the questions, simply click on them to expand it. It's just for fun, good luck! :heart:</span>
-
-Feel free to reach out to me! 😊 <br />
+Lydia's Social Media Accounts! 😊 <br />
 <a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https://www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="https://www.lydiahallie.dev">Blog</a>
 </div>
+	
+From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket: I update this repo regularly with new questions. Answers in the **collapsed sections** below the questions, simply click on them to expand it.</span>
 
-| Feel free to use them in a project! 😃  I would _really_ appreciate a reference to this repo, I create the questions and explanations (yes I'm sad lol) and the community helps me so much to maintain and improve it! 💪🏼 Thank you and have fun!   |
+| Feel free to use these in a project BUT Lydia was kind enough to put this together so if you use it make sure to reference her. As you can see, she put alot of work into creating these questions and explanations so really it's the least you can do. If you would like to follow Lydia on GitHub you can find her accoount [here](https://github.com/lydiahallie/)! 💪🏼 Have fun!  |
 |---|
 
 ---
