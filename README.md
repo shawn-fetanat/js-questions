@@ -6,7 +6,7 @@
 	
 <span>I copied these amazing questions from Lydia Hallie's repo who was kind enough to put all these questions and answers together. Lydia (aka the Avocoder) keeps the list updated so <b>DO NOT</b> star this repo. Instead you should star her repo which you can find => [here](https://github.com/lydiahallie/javascript-questions).</span>
 
-<span>She also posts multiple choice JavaScript questions on her [Instagram](https://www.instagram.com/theavocoder) **stories**, which she eventually adds to the list!<a href=#20200612></a>
+<span>She also posts multiple choice JavaScript questions on her [Instagram](https://www.instagram.com/theavocoder) **stories**<a href=#20200612></a>
 
 Lydia's Social Media Accounts! 😊 <br />
 <a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https://www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="https://www.theavocoder.com">Blog</a>
