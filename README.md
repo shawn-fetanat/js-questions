@@ -3,19 +3,10 @@
   <h1>JavaScript Questions</h1>
 
 ---
-	
-<span>I copied these amazing questions from Lydia Hallie's repo who was kind enough to put all these questions and answers together. Lydia (aka the Avocoder) keeps the list updated so <b>DO NOT</b> star this repo. Instead you should star her repo which you can find => [here](https://github.com/lydiahallie/javascript-questions).</span>
 
-<span>She also posts multiple choice JavaScript questions on her [Instagram](https://www.instagram.com/theavocoder) **stories**<a href=#20200612></a>
-
-Lydia's Social Media Accounts! 😊 <br />
-<a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https://www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="https://www.theavocoder.com">Blog</a>
-</div>
 	
 From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket:. Answers in the **collapsed sections** below the questions, simply click on them to expand it. Available in 18 different languages!!!:muscle::rocket:</span>
 
-| Feel free to use these in a project BUT Lydia was kind enough to put this together so if you use it make sure to reference her. As you can see, she put alot of work into creating these questions and explanations so really it's the least you can do. If you would like to follow Lydia on GitHub you can find her accoount [here](https://github.com/lydiahallie/)! 💪🏼 Have fun!  |
-|---|
 
 ---
 
